@@ -12,5 +12,3 @@ https://twitter.com/Web3Go
  
 https://t.me/web3go
 
-## Grant Support
-<img src='https://web3go.xyz/static/web3_foundation_grants_badge_black.png'> 
