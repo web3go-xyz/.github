@@ -1,5 +1,5 @@
 # Introduction
-<img src='https://web3go.xyz/static/Web3Go.logo-h.png'> 
+<img style='width:300px' src='https://web3go.xyz/static/Web3Go.logo-h.png'> 
 
 https://web3go.xyz/
 
