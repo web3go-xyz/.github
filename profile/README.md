@@ -18,3 +18,5 @@ https://t.me/web3go
 ### W3F Grants Program
 
 refer to: https://github.com/web3go-xyz/web3go.xyz
+<img src='https://web3go.xyz/static/web3_foundation_grants_badge_black.png'> 
+
