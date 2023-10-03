@@ -1,7 +1,7 @@
 # Introduction
 <img style='width:300px' src='https://app.web3go.xyz/static/Web3Go.logo-h.png'> 
 
-Web3Go, an open data platform that focuses on the formatting, visualization, and collaborative analytics of on-chain data generated in the Polkadot ecosystem.
+Web3Go DIN (Data Intelligence Network) is a new-generation data infrastructure to connect human, data, and AI.
 
 # Community 
 https://web3go.medium.com/
