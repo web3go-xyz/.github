@@ -1,7 +1,8 @@
 # Introduction
-<img style='width:300px' src='https://app.web3go.xyz/static/Web3Go.logo-h.png'> 
+<img style='width:300px' src='https://miro.medium.com/v2/resize:fill:176:176/1*1nI57vg-A2TF3FlEroMpyg.png'> 
 
-Web3Go DIN (Data Intelligence Network) is a new-generation data infrastructure to connect human, data, and AI.
+Data Intelligence Network 🌐 Building Analytix, Reiki and Rye Alpha 💎
+
 
 # Community 
 https://web3go.medium.com/
@@ -9,18 +10,4 @@ https://web3go.medium.com/
 https://twitter.com/Web3Go
  
 https://t.me/web3go
-
-
-# Support 
-### BNB Chain Accelerator
-
-<img width=400 src='https://binance.ghost.io/content/images/2022/10/mvbvbvbvb.png' /> 
- 
-
-
-
-### W3F Grants Program
-
-<img width=400 src='https://app.web3go.xyz/static/web3_foundation_grants_badge_black.png'  /> 
-
 
