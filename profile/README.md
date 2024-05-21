@@ -1,13 +1,13 @@
 # Introduction
-<img style='width:300px' src='https://miro.medium.com/v2/resize:fill:176:176/1*1nI57vg-A2TF3FlEroMpyg.png'> 
+<img style='width:48px' src='https://miro.medium.com/v2/resize:fill:44:44/1*BnwD4a9vzpnkVojRLWwTrw.png'> 
 
 Data Intelligence Network 🌐 Building Analytix, Reiki and Rye Alpha 💎
 
 
 # Community 
-https://web3go.medium.com/
- 
-https://twitter.com/Web3Go
- 
-https://t.me/web3go
+https://dinlol.medium.com/
+
+https://x.com/din_lol_
+
+https://t.me/DINCommunity
 
